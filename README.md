@@ -1,4 +1,4 @@
-<h3 align="center">Ingeniera en Sistemas Computacionales | Especialista en Quality Assurance | Futura Desarrolladora de Software</h3>
+<h3 align="center">Ingeniera en Sistemas Computacionales | Especialista en Quality Assurance | Desarrolladora de Software</h3>
 
 - 🔭 I’m currently working on **Logo generator**
 
